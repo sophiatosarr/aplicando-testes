@@ -41,6 +41,9 @@ public class TemperatureConversionTests
 } 
 
 ```
+### Resultado dos testes
+![image](https://github.com/sophiatosarr/aplicando-testes/assets/99216420/28cc65ce-1d5b-4214-b63f-1e704441e4d9)
+
 
 ## Testes com NUnit
 
@@ -77,6 +80,9 @@ public class TemperatureConversionTests
     }
 }
 ```
+### Resultado dos Testes
+![image](https://github.com/sophiatosarr/aplicando-testes/assets/99216420/4560cd93-d2ac-4f5a-b03b-5364252ace2e)
+
 
 
 ## Testes com MSTest
@@ -116,3 +122,7 @@ public class TemperatureConversionTests
     }
 }
 ```
+### Resultado dos Testes
+
+![image](https://github.com/sophiatosarr/aplicando-testes/assets/99216420/7e145087-6e23-4a5b-a4b6-482e9c05b6a4)
+
