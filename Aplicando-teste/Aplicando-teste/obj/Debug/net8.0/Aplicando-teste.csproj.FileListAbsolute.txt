@@ -1,0 +1,15 @@
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\bin\Debug\net8.0\Aplicando-teste.exe
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\bin\Debug\net8.0\Aplicando-teste.deps.json
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\bin\Debug\net8.0\Aplicando-teste.runtimeconfig.json
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\bin\Debug\net8.0\Aplicando-teste.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\bin\Debug\net8.0\Aplicando-teste.pdb
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.sourcelink.json
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\refint\Aplicando-teste.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.pdb
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\Aplicando-teste.genruntimeconfig.cache
+C:\Users\Inteli\Documents\GitHub\aplicando-testes\Aplicando-teste\Aplicando-teste\obj\Debug\net8.0\ref\Aplicando-teste.dll
