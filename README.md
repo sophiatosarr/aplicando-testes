@@ -1,5 +1,3 @@
-# aplicando-testes
-
 # Aplicando Testes em .NET 5
 
 ## Introdução
