@@ -1,9 +1,8 @@
 # Aplicando Testes em .NET 5
 
 ## Introdução
-Este repositório foi criado com o objetivo de demonstrar a aplicação de testes unitários em aplicações baseadas no .NET 5, conforme exemplificado no artigo de Renato Groffe. Os testes foram implementados utilizando os frameworks xUnit, NUnit e MSTest. Cada commit neste repositório corresponde a um teste implementado, conforme orientado no exercício.
-
-Cada seção contém uma descrição detalhada dos testes, exemplos de cenários e capturas de tela dos testes sendo executados.
+Este repositório foi criado com o objetivo de demonstrar a aplicação de testes unitários em aplicações baseadas no .NET 5. Os testes foram implementados utilizando os frameworks xUnit, NUnit e MSTest.
+Cada seção contém uma descrição detalhada dos testes e exemplos de cenários.
 
 ## Testes com xUnit
 
